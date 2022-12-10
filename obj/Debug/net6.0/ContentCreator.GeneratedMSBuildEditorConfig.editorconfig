@@ -32,6 +32,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[Z:/dev/c\#/repos/ContentCreator/Pages/VdideoAnalytics.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmRpZGVvQW5hbHl0aWNzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/dev/c\#/repos/ContentCreator/Pages/VideoEditor.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlkZW9FZGl0b3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/dev/c\#/repos/ContentCreator/Pages/VideoManager.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlkZW9NYW5hZ2VyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [Z:/dev/c\#/repos/ContentCreator/Shared/LoginDisplay.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luRGlzcGxheS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
